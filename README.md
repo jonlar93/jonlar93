@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there! 👋
+
+I'm jonas, a 31 year old from Skien, Norway
+
+- 🌱 I’m currently studying front end web development at Noroff.
+- 🖥️ I'm passionate about most new  tech, and working on expanding my scope of what tech can bring.
+- 📫 you can reach me on [LinkedIn](www.linkedin.com)
 
 <!--
 **jonlar93/jonlar93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
